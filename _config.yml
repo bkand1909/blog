@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TIL
+title: My Notes
 subtitle: ''
 description: ''
 keywords:
@@ -66,7 +66,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: TIL
 category_map:
 tag_map:
 
